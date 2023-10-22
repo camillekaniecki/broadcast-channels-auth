@@ -1,1 +1,1 @@
-# broadcast-channels-auth
+# broadcast-channels-demo
